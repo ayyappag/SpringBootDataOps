@@ -1,5 +1,6 @@
-com\project\dao\AdminDao.class
-com\project\service\AdminService.class
-com\project\model\Admin.class
+com\project\model\Customer.class
+com\project\controller\CustomerController.class
 com\project\SpringBootDataOpsApplication.class
-com\project\controller\AdminController.class
+com\project\dao\CustomerDao.class
+com\project\controller\Employee.class
+com\project\service\CustomerService.class
