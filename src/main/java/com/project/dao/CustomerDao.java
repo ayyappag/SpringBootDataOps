@@ -1,5 +1,7 @@
 package com.project.dao;
 
-public class CustomerDao {
+import com.project.model.Customer;
 
+public interface CustomerDao {
+	public void creation(Customer customer);
 }

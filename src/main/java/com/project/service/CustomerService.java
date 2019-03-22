@@ -1,5 +1,9 @@
 package com.project.service;
 
-public class CustomerService {
+import com.project.model.Customer;
+
+public interface CustomerService {
+	
+	public void creation(Customer customer);
 
 }
